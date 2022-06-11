@@ -1,0 +1,12 @@
+[
+    {
+        "name": "13189",
+        "api_key": "api_key_1",
+        "secret_key": "secret_key_1"
+    },
+    {
+        "name": "27341",
+        "api_key": "api_key_2",
+        "secret_key": "secret_key_2"
+    }
+]
